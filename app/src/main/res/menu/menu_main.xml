@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Jam"
+        android:orderInCategory="100"
+        android:title="Jam"
+        android:icon="@drawable/ic_query_builder_black_24dp"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Exit"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>
